@@ -1,2 +1,2 @@
 # images
-public images
+MIXI public images
